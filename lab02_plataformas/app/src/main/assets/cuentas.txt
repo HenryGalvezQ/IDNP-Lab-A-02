@@ -1,0 +1,3 @@
+admin,admin
+henry,estudiante1
+barbara,estudiante2
